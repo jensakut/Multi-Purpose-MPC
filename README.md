@@ -63,7 +63,7 @@ The implementation is based on a small set of libraries. For the optimization pr
 osqp
 numpy
 scipy
-skimage
+scikit-image
 matplotlib
 ```
 
